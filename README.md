@@ -141,7 +141,7 @@ Details of PDAC components and build.
 <td>Misc</td>
 <td>Pin Jumpers</td>
 <td>Connecting fan powers and buzzer</td>
-<td>See Extra Details</td>
+<td>AZDelivery (see details)</td>
 <td>Recommended: rounded housing type, and not fragile square housing (which are easily broken, and rusty inside)</td>
 <td>Any</td>
 </tr>
