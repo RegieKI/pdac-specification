@@ -134,7 +134,7 @@ Details of PDAC components and build.
 <td>GPIO Ribbon</td>
 <td>Connects GPIO pins to 3.5" LCD</td>
 <td>Kuman Breadboard Jumper Wires 40pin Male to Female GPIO Cable (15 - 20cm)</td>
-<td>Must be F-2-F for unusual LCD connector</td>
+<td>Must be M2F for unusual LCD connector</td>
 <td><a href="https://uk.pi-supply.com/products/40-pin-gpio-male-to-female-ribbon-cable-150mm?lang=de" target="_blank">PiSupply</a> / <a href="https://www.amazon.de/-/en/gp/product/B01L6THEE8/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;psc=1" target="_blank">Amazon</a></td>
 </tr>
 <tr>
@@ -155,16 +155,16 @@ Details of PDAC components and build.
 </tr>
 <tr>
 <td>Case</td>
-<td>Block Legs (x 4)</td>
-<td>Holds front and back panels in each corner</td>
+<td>Block Legs</td>
+<td>Holds front and back panels in each corner - comes in set of 4 legs</td>
 <td>Drilled wood or acrylic blocks</td>
 <td>Recomended to do with easier material than acrylic</td>
 <td>N/A</td>
 </tr>
 <tr>
 <td>Case</td>
-<td>Block Spacers (x 2 or x 4)</td>
-<td>Attaches Hotshoe Mount (on top-side), and tripod mount (on bottom-side)</td>
+<td>Block Spacers</td>
+<td>Attaches Hotshoe Mount (on top-side), and tripod mount (on bottom-side) - comes in a set of 4 blocks</td>
 <td>Drilled wood or acrylic blocks, with threaded holes</td>
 <td>Affixed centrally on top and bottom</td>
 <td>N/A</td>
