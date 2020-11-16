@@ -1,5 +1,10 @@
 # PDAC Specification
 
+Details of PDAC components and build.
+
+* [case PDF](https://github.com/RegieKI/pdac-specification/blob/main/case.pdf)
+* [case PNG](https://github.com/RegieKI/pdac-specification/blob/main/case.pdf)
+
 <table>
 <thead>
 <tr>
